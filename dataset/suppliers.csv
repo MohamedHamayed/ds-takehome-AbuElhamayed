@@ -1,0 +1,21 @@
+supplier_id,name,country,preferred,rating,base_lead_time_days,on_time_bias
+1,Supplier 001,US,True,4.0,7,0.16
+2,Supplier 002,NL,False,3.9,20,-0.017
+3,Supplier 003,NL,True,3.3,10,0.178
+4,Supplier 004,CN,False,3.3,20,0.183
+5,Supplier 005,PL,False,3.2,17,-0.028
+6,Supplier 006,IN,False,2.6,30,-0.028
+7,Supplier 007,DE,False,3.4,11,0.19
+8,Supplier 008,FR,True,3.1,27,0.192
+9,Supplier 009,IT,False,3.8,14,-0.056
+10,Supplier 010,IN,False,3.7,4,0.065
+11,Supplier 011,UK,False,2.1,20,-0.056
+12,Supplier 012,CZ,False,3.1,22,-0.056
+13,Supplier 013,IT,True,2.7,10,0.129
+14,Supplier 014,CZ,False,3.0,30,-0.23
+15,Supplier 015,PL,False,3.7,29,-0.207
+16,Supplier 016,IT,True,3.0,14,0.033
+17,Supplier 017,PL,False,3.0,5,-0.122
+18,Supplier 018,IN,False,2.7,20,0.038
+19,Supplier 019,PL,False,3.7,23,-0.109
+20,Supplier 020,CN,True,3.8,13,-0.069
