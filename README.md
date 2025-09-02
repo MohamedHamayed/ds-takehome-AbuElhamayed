@@ -1,5 +1,3 @@
-# DS Take-Home — Package
-
 # Data Science Take-Home — Procurement & Supply Analytics
 This repository contains my solution for the Data Science Take-Home Exercise focused on Procurement & Supply Analytics.
 It includes Exploratory Data Analysis, Anomaly Detection Modeling, and SQL Solutions.
