@@ -7,6 +7,7 @@ It includes Exploratory Data Analysis, Anomaly Detection Modeling, and SQL Solut
 ---
 
 ## Repository Structure
+```bash
 .
 ├── notebooks/
 │   ├── EDA.ipynb
@@ -14,6 +15,7 @@ It includes Exploratory Data Analysis, Anomaly Detection Modeling, and SQL Solut
 ├── sql/
 │   └── sql_exercise.sql
 └── requirements.txt
+```
 
 ---
 
@@ -57,9 +59,9 @@ You can execute them using your preferred SQL environment (e.g., PostgreSQL, MyS
 ---
 
 ## Deliverables
-✔ EDA & Data Quality Analysis → notebooks/EDA.ipynb
-✔ Anomaly Detection Model → notebooks/Model_Anomaly.ipynb
-✔ SQL Solutions → sql/sql_exercise.sql
+- EDA & Data Quality Analysis → `notebooks/EDA.ipynb`
+- Anomaly Detection Model → `notebooks/Model_Anomaly.ipynb`
+- SQL Solutions → `sql/sql_exercise.sql`
 
 ---
 
